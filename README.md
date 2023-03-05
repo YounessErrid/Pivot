@@ -13,4 +13,4 @@ The primary purpose of this project was for me to learn and improve my skills in
 # Challenges
 The main challenge faced during the development process was to create a professional user interface. I overcame this challenge by doing some research on the internet to get inspired and following best practices in web design.
 
-Go To the project [YellowFrame](https://younesserrid.github.io/Pivot/)
+Go To the project [Pivot](https://younesserrid.github.io/Pivot/)
